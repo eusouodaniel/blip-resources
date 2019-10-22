@@ -1,0 +1,17 @@
+{
+  "name": "blip-resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "eusouodaniel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  }
+}
